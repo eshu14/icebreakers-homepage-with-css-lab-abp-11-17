@@ -8,9 +8,21 @@ header nav{
 nav ul{
   padding:0;
   margin:40px 0 0 0;
-  
+
 }
 nav ul li{
   display: inline;
   margin-right:10px;
+}
+nav a{
+  text-decoration-line: none;
+  color:#007BFF;
+  font-size: 18px;
+}
+nav a:hover{
+  text-decoration: underline;
+  color:#0056b3;
+}
+h3#header{
+  
 }
