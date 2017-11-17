@@ -1,3 +1,6 @@
+*{
+  font-family:"Helvetica", "Arial", "san-serif";
+}
 header{
   height:100px;
   border-bottom: solid 1px #CCC;
